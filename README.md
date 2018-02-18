@@ -1,4 +1,4 @@
-# QuickBill-Invoice-Inventory-management-system
+# QuickBill-Invoice: A Inventory management Application
 QuickBill-Invoice : A Inventory management system with complete GST solution.
 <p>This application is completly design in C#(.net) using Visual Studio 2015.</p>
 
