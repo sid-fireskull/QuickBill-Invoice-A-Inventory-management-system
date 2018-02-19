@@ -1,0 +1,36 @@
+c:\users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\bin\Debug\QuickBill.exe.config
+c:\users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\bin\Debug\QuickBill.exe
+c:\users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\bin\Debug\QuickBill.pdb
+c:\users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.csprojResolveAssemblyReference.cache
+c:\users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.Properties.Resources.resources
+c:\users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.csproj.GenerateResource.Cache
+c:\users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.exe
+c:\users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.pdb
+c:\users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.loginPanel.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.catagoryInitiation.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.subCatagoryInitiation.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.billing.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.FilePath.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.Preferences.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.checkupdatestock.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.CreateUser.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.updateadminpwd.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.editCatagory.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.rmvCatagory.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.rmvSubCatagory.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.editSubCatagory.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\bin\Debug\UnitsNet.dll
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.quantityandconversion.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.FinalInvoice.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.registration.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.prevInvoice.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.contact.resources
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\Interop.otkloadr.dll
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.csproj.ResolveComReference.cache
+C:\Users\1finity\documents\visual studio 2015\Projects\QuickBill1\QuickBill\obj\Debug\QuickBill.Summary.resources
+C:\Users\1finity\Documents\QuickBill1\QuickBill\bin\Debug\QuickBill.exe.config
+C:\Users\1finity\Documents\QuickBill1\QuickBill\obj\Debug\Interop.otkloadr.dll
+C:\Users\1finity\Documents\QuickBill1\QuickBill\obj\Debug\QuickBill.csproj.ResolveComReference.cache
+C:\Users\1finity\Documents\QuickBill1\QuickBill\obj\Debug\QuickBill.exe
+C:\Users\1finity\Documents\QuickBill1\QuickBill\obj\Debug\QuickBill.pdb
