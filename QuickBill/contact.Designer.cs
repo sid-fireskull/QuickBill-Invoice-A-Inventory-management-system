@@ -100,7 +100,7 @@
             this.linkLabel1.Size = new System.Drawing.Size(161, 13);
             this.linkLabel1.TabIndex = 5;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "buisness_quickbill@outlook.com";
+            this.linkLabel1.Text = "buisness_quickbill@quickbill.com";
             // 
             // linkLabel2
             // 
@@ -110,7 +110,7 @@
             this.linkLabel2.Size = new System.Drawing.Size(140, 13);
             this.linkLabel2.TabIndex = 6;
             this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "help_quickbill@outlook.com";
+            this.linkLabel2.Text = "help_quickbill@quickbill.com";
             // 
             // contact
             // 
